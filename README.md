@@ -1,2 +1,2 @@
-#### HelloWorld
-It contains a simple Java program that prints **Hello, World**.
+- HelloWorld.java – Contains a simple Java program that prints **Hello, World**.
+- ArrayListExample.java – Contains a Java program that demonstrates how to use an `ArrayList` and sort its elements.
