@@ -3,12 +3,13 @@ public class LinkedListExample {
     public static void main(String[] args)
     {
         var cars = new LinkedList<String> ();
-        cars.add("volvo");
+        cars.add("Volvo");
         cars.add("BMW");
         cars.add("Ford");
         cars.addFirst("Mazda");
         cars.removeLast();
-        cars.addLast("skoda");
+        cars.addLast("Skoda");
         System.out.println(cars);
     }
 }
+
