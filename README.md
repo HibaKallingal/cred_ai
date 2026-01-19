@@ -1,7 +1,7 @@
-## HelloWorld.java
+## HelloWorld
 
 ### Description
-+ It contains a simple Java program that prints **Hello, World**.
+It contains a simple Java program that prints **Hello, World**.
 ### Program Overview
 The program performs the following actions:
 - Defines a class named `HelloWorld`
@@ -15,11 +15,13 @@ This program is commonly used as an introduction to Java programming. It helps i
 - How to print output to the console
 
 ### Output
-**Hello, World**
+```
+Hello, World
+```
 
 ## ArrayListExample
 ### Description
-+ It contains a Java program that demonstrates how to use an `ArrayList` and sort its elements.
+It contains a Java program that demonstrates how to use an `ArrayList` and sort its elements.
 
 ### Program Overview
 The program performs the following operations:
@@ -40,8 +42,10 @@ This program helps in understanding:
 - How to iterate through a collection and print values
 
 ### Output
+```
 5
 12
 23
 25
 33
+```
