@@ -1,7 +1,7 @@
-## HelloWorld.java
+## HelloWorld
 
 ### Description
-+ It contains a simple Java program that prints **Hello, World**.
+It contains a simple Java program that prints **Hello, World**.
 ### Program Overview
 The program performs the following actions:
 - Defines a class named `HelloWorld`
@@ -15,11 +15,13 @@ This program is commonly used as an introduction to Java programming. It helps i
 - How to print output to the console
 
 ### Output
-**Hello, World**
+```
+Hello, World
+```
 
 ## ArrayListExample
 ### Description
-+ It contains a Java program that demonstrates how to use an `ArrayList` and sort its elements.
+It contains a Java program that demonstrates how to use an `ArrayList` and sort its elements.
 
 ### Program Overview
 The program performs the following operations:
@@ -40,8 +42,39 @@ This program helps in understanding:
 - How to iterate through a collection and print values
 
 ### Output
+```
 5
 12
 23
 25
 33
+```
+## LinkedListExample
+
+### Description
+This program demonstrates how to use a `LinkedList` in Java and perform basic operations like adding and removing elements.
+
+### Program Overview
+The program performs the following actions:
+- Creates a `LinkedList` to store car names
+- Adds elements to the list
+- Adds an element at the beginning of the list
+- Removes the last element
+- Adds a new element at the end
+- Prints the final contents of the list
+
+### Key Concepts Used
+- `LinkedList` from `java.util`
+- Adding and removing elements
+- Printing a collection
+
+### Purpose
+This program helps in understanding:
+- How `LinkedList` works in Java
+- Difference between adding elements at the beginning and end
+- How to modify and display a list
+
+### Output
+```
+[Mazda, Volvo, BMW, Skoda]
+```
