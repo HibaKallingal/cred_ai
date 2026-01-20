@@ -78,3 +78,63 @@ This program helps in understanding:
 ```
 [Mazda, Volvo, BMW, Skoda]
 ```
+## StackExample
+
+### Description
+This program demonstrates how to use a `Stack` in Java and perform basic stack operations.
+
+### Program Overview
+The program performs the following actions:
+- Creates a `Stack` to store color names
+- Adds elements to the stack using `push()`
+- Removes the top element using `pop()`
+- Displays the top element using `peek()`
+- Prints all elements present in the stack
+
+### Key Concepts Used
+- `Stack` from `java.util`
+- Stack operations: `push`, `pop`, `peek`
+- Printing collections
+
+### Purpose
+This program helps in understanding:
+- How a stack works using LIFO(Last In, First Out)
+- How to add and remove elements in a stack
+- How to access the top element of a stack
+
+### Output
+```
+Green
+[Red, Green]
+```
+
+## QueueExample
+
+### Description
+This program demonstrates how to use a `Queue` in Java and perform basic queue operations.
+
+### Program Overview
+The program performs the following actions:
+- Creates a `Queue` to store integer values
+- Adds elements to the queue
+- Displays the front element using `peek()`
+- Removes the front element using `poll()`
+- Prints the remaining elements in the queue
+
+### Key Concepts Used
+- `Queue` interface from `java.util`
+- `LinkedList` implementation of Queue
+- Queue operations: `add`, `peek`, `poll`
+
+### Purpose
+This program helps in understanding:
+- How a queue works using FIFO(First In, First Out)
+- How to add and remove elements in a queue
+- How to access the front element of a queue
+
+### Output
+
+```
+23
+[12, 35, 46]
+```
